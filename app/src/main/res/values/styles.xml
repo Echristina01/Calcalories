@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@drawable/calcalories</item>
+        <item name="colorPrimary">#6FBEFD</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#61ECDD</item>
+        <item name="colorAccent">#FFDAE1</item>
+    </style>
+
+</resources>
